@@ -9,7 +9,7 @@
 ![部分截图预览](SomeDisplays/show(7).png)
 >更多内容请您下载观看
 
-# FourClassics-Museum · 四大名著数字博物馆
+# FourClassics Museum · 四大名著数字博物馆
 
 ![项目封面](img/HomeImg/book.jpg)
 
